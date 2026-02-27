@@ -5,7 +5,7 @@
 	opacity: auto;
 }
 
-p.movieDetails {
+.movieDetail {
 	position: absolute;
 	top: 400px;
 	width: 100%;
